@@ -16,6 +16,7 @@
 
 
 🌱 I'm currently learning professional CSS and Javascript adapted to responsive design (mobile first).
+
 📫 How to reach me on:
 - 🔭 https://nicolaszfr.github.io/Portfolio/ (Github Pages, personal portfolio).
 - 🔭 https://www.instagram.com/nicolaszfr/ (Instagram, personal profile).
