@@ -10,6 +10,7 @@
 - :mag_right: SQL
 - :movie_camera: Data visualization (Power BI, Tableau, Google Data Studio)
 - :eyes: Microsoft Excel
+- :newspaper: Git & Github
 
 ##### Mi goals:
 - Become a data scientist and helping organizations in data-driven decission making
