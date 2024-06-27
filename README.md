@@ -5,7 +5,7 @@
 ------------
 
 ##### My knowledge:
-- :snake: Python for data analytics (Pandas, Tensorflow, Numpy, Scikitlearn) and Anaconda
+- :snake: Python for data analytics & data science (Pandas, Tensorflow, Numpy, Scikitlearn, Selenium, Beautifulsoup) and Anaconda
 - :chart_with_upwards_trend: Machine learning(supervised & unsupervised) and deep learning with neural netowrks (CNN, RNN, LSTM, GANs)
 - :mag_right: SQL
 - :movie_camera: Data visualization (Power BI, Tableau, Google Data Studio)
@@ -15,8 +15,8 @@
 ##### Mi goals:
 - Become a data scientist and helping organizations in data-driven decission making
 - Improve myself in databases and datawarehouses for data science
-- Getting mor knowledge about neural networks like GNN [Graph neural networks]
-- Continue my studying in LLM
+- Getting more knowledge about neural networks like GNN [Graph neural networks]
+- Continuing my studies in LLM
 
 ------------
 
