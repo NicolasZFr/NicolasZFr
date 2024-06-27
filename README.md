@@ -10,7 +10,7 @@
 - :mag_right: SQL
 - :movie_camera: Data visualization (Power BI, Tableau, Google Data Studio)
 - :eyes: Microsoft Excel
-- :newspaper: Git & Github (Used in Windows Subsystem for Linux)
+- :newspaper: Git & Github (used in Windows Subsystem for Linux)
 
 ##### Mi goals:
 - Become a data scientist and helping organizations in data-driven decission making
