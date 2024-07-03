@@ -1,12 +1,12 @@
 # About me 
 
-#### Welcome. I am Nicolás, a professional in business management with studies in data science and data analytics. I have a desire for helping people to make their work easier and improve their decision making.  
+##### Welcome. I am Nicolás, a professional in business management with studies in data science and data analytics. I have a desire for helping people to make their work easier and improve their decision making.  
 
-Here is my [**PORTFOLIO**](https://nicolaszfr.github.io/nicolas-portfolio/)
+##### Here is my [PORTFOLIO](https://nicolaszfr.github.io/nicolas-portfolio/)
 
 ------------
 
-##### My knowledge:
+#### My knowledge:
 - :snake: Python for data analytics & data science (Pandas, Tensorflow, Numpy, Scikitlearn, Selenium, Beautifulsoup) and Anaconda
 - :chart_with_upwards_trend: Machine learning(supervised & unsupervised) and deep learning with neural netowrks (CNN, RNN, LSTM, GANs)
 - :mag_right: SQL
