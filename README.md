@@ -1,6 +1,8 @@
 # About me 
 
-#### Welcome. I am Nicolás, a professional in business management with studies in data science and data analytics. I have a desire for helping people to make their work easier and improve their decision making.
+#### Welcome. I am Nicolás, a professional in business management with studies in data science and data analytics. I have a desire for helping people to make their work easier and improve their decision making.  
+
+Here is my [**PORTFOLIO**](https://nicolaszfr.github.io/nicolas-portfolio/)
 
 ------------
 
