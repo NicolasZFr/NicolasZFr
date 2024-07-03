@@ -14,10 +14,10 @@
 - :eyes: Microsoft Excel
 - :newspaper: Git & Github (used in Windows Subsystem for Linux)
 
-##### Mi goals:
-- Become a data scientist and helping organizations in data-driven decission making
-- Improve myself in databases and datawarehouses for data science
-- Getting more knowledge about neural networks like GNN [Graph neural networks]
+#### My goals:
+- Becoming a data scientist and helping organizations in data-driven decision making
+- Improving myself in databases and data warehouses for data science
+- Gaining more knowledge about neural networks, such as GNN (Graph Neural Networks)
 - Continuing my studies in LLM
 
 ------------
